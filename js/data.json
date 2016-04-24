@@ -1,0 +1,101 @@
+{
+   "type":"portfolio",
+   "websites":[
+       {
+         "name":"Ishin Hotels Group",
+         "desc":"Japan, Hotel Group Site",
+         "url":"http://www.ishinhotels.com/en/",
+         "img":"portfolio/ishin_group.jpg"
+      },
+      {
+         "name":"Shiba Park Hotel",
+         "desc":"Japan, Single Property Site",
+         "url":"http://en.shibaparkhotel.com/",
+         "img":"portfolio/shiba_park.jpg"
+      },
+      {
+         "name":"Hotel Maison Boutique",
+         "desc":"Malaysia, Single Property Site",
+         "url":"http://www.hotelmaison.com.my/",
+         "img":"portfolio/hotel_maison.jpg"
+      },
+      {
+         "name":"Cosmos Hotel Taipei",
+         "desc":"Taiwan, Single Property Site",
+         "url":"http://www.cosmos-hotel.com.tw/",
+         "img":"portfolio/cosmos_hotel.jpg"
+      },
+      {
+         "name":"Prince Hotel Group Site",
+         "desc":"Japan, Hotel Group Site",
+         "url":"http://www.princehotels.com/en/",
+         "img":"portfolio/princehotels_group.jpg"
+      },
+      {
+         "name":"Prince Hotel Property Site",
+         "desc":"Japan, 45 Properties Site",
+         "url":"http://www.princehotels.com/en/parktower/",
+         "img":"portfolio/princehotels_property.jpg"
+      },
+      {
+         "name":"remm HIBIYA Hotel Hankyu",
+         "desc":"Japan, 15 Properties Site",
+         "url":"http://remm-hibiya.hankyu-hotel.com/",
+         "img":"portfolio/remm_hibiya.jpg"
+      },
+      {
+         "name":"Richmond Hotel",
+         "desc":"Japan, Hotel Group Site",
+         "url":"http://en.richmondhotel.jp/",
+         "img":"portfolio/richmond_group.jpg"
+      },
+      {
+         "name":"Richmond Hotel Sapporo",
+         "desc":"Japan, 36 Properties Site",
+         "url":"http://sapporo-odori.richmondhotel.jp/",
+         "img":"portfolio/richmond_property.jpg"
+      },
+      {
+         "name":"Royal Plaza on Scotts",
+         "desc":"Singapore, Single Property Site",
+         "url":"http://www.royalplaza.com.sg/",
+         "img":"portfolio/royal_plaza.jpg"
+      },
+      {
+         "name":"Legendale Hotel Beijing",
+         "desc":"China, Single Property Site",
+         "url":"http://www.legendalehotel.com.cn/",
+         "img":"portfolio/legendale.jpg"
+      },
+      {
+         "name":"Tokyu Hotels Group",
+         "desc":"Japan, Hotel Group Site",
+         "url":"http://www.tokyuhotels.com/",
+         "img":"portfolio/tokyu_hotels_group.jpg"
+      },
+      {
+         "name":"Kichijoji Tokyu REI Hotel",
+         "desc":"Japan, 44 Properties Site",
+         "url":"http://kichijoji.tokyuhotels.com/",
+         "img":"portfolio/tokyu_hotel_property.jpg"
+      },
+      {
+         "name":"Nirwana Gardens",
+         "desc":"Indonesia, Hotel Group and 5 Properties Site",
+         "url":"http://www.nirwanagardens.com/",
+         "img":"portfolio/nirwana_gardens.jpg"
+      },
+      {
+         "name":"Select Hotels",
+         "desc":"India, Hotel Group and 2 Properties Site",
+         "url":"http://www.selecthotels.co.in/",
+         "img":"portfolio/select_hotel.jpg"
+      },
+      {
+         "name":"Hotel Sentral Kuantan ",
+         "desc":"Malaysia, Single Property Site",
+         "url":"http://www.hotelsentralkuantan.com.my/",
+         "img":"portfolio/hotel_sentral.jpg"
+      }
+   ]
+}
