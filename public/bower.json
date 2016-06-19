@@ -1,0 +1,26 @@
+{
+  "name": "ckliang",
+  "authors": [
+    "ckliang <ckliang322@gmail.com>"
+  ],
+  "description": "my mean stack website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.6.2",
+    "angular-animate": "^1.5.5",
+    "angular-ui-router": "^0.2.18",
+    "angular-bootstrap": "^1.3.2"
+  }
+}

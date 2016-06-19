@@ -10,8 +10,8 @@
 	var portfolioModule = angular.module('portfolioModule', []);
 
 	portfolioModule.controller('PortfolioCtrl', function($scope, portfolioFactory) {
-		portfolioFactory.get(function(data) {
-			$scope.data = data.websites;
+		portfolioFactory.getAll(function(data) {
+			$scope.data = data;
 		});
 		$scope.class = 'portfolio_item spinner';
 	});
@@ -23,7 +23,6 @@
 				element.bind('load', function() {
 					scope.class = 'portfolio_item loaded';
 					scope.$apply();
-					console.log('image loaded');
 				});
 			}
 		};
