@@ -66,6 +66,17 @@ a:focus {
 	position: relative;
 }
 
+#content {
+	p {
+		font-size: 22px;
+		margin: 0 0 40px;
+	}
+	h2 {
+		font-weight: 700;
+		margin: 50px 0 30px;
+	}
+}
+
 #logo {
 	float: left;
 	height: 60px;
@@ -267,7 +278,7 @@ a:focus {
 		.portfolio_img {
 			border: none;
 			@include border-radius(0);
-			@include grayscale(100%);
+			//@include grayscale(100%);
 			overflow: none;
 			width: 100%;
 		}
@@ -293,7 +304,7 @@ a:focus {
 			top: 65%;
 		}
 		.portfolio_item.loaded:hover .portfolio_img {
-			@include grayscale(0);
+			//@include grayscale(0);
 		}
 	}
 }
@@ -316,7 +327,7 @@ a:focus {
 		.portfolio_img {
 			border: none;
 			@include border-radius(0);
-			@include grayscale(100%);
+			//@include grayscale(100%);
 			overflow: none;
 			width: 100%;
 		}
@@ -345,7 +356,7 @@ a:focus {
 			top: 55%;
 		}
 		.portfolio_item.loaded:hover .portfolio_img {
-			@include grayscale(0);
+			//@include grayscale(0);
 		}
 	}
 }

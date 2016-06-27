@@ -2,10 +2,14 @@
 	var app = angular.module('ckliang', ['ui.router', 'ui.bootstrap', 'portfolioModule', 'anchorScroll']);
 
 	app.config(['$locationProvider', '$stateProvider', '$urlRouterProvider', function($locationProvider, $stateProvider, $urlRouterProvider) {
-		$stateProvider.state('app', {
+		$stateProvider.state('home', {
 			url: '/',
 			templateUrl: 'template/home/index.html',
 			controller: 'PortfolioCtrl'
+		}).state('about', {
+			url: '/about',
+			templateUrl: 'template/about/index.html',
+			controller: 'AboutMe'
 		});
 
 		$urlRouterProvider.otherwise('/');

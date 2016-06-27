@@ -31,6 +31,13 @@ a:focus {
   margin-bottom: 30px;
   position: relative; }
 
+#content p {
+  font-size: 22px;
+  margin: 0 0 40px; }
+#content h2 {
+  font-weight: 700;
+  margin: 50px 0 30px; }
+
 #logo {
   float: left;
   height: 60px;
@@ -203,9 +210,6 @@ a:focus {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    -webkit-filter: grayscale(100%);
-    /* Chrome, Safari, Opera */
-    filter: grayscale(100%);
     overflow: none;
     width: 100%; }
   #portfolio .portfolio_info {
@@ -227,11 +231,7 @@ a:focus {
   #portfolio .portfolio_desc {
     padding: 0 20%; }
   #portfolio .portfolio_item.loaded:hover .portfolio_info {
-    top: 65%; }
-  #portfolio .portfolio_item.loaded:hover .portfolio_img {
-    -webkit-filter: grayscale(0);
-    /* Chrome, Safari, Opera */
-    filter: grayscale(0); } }
+    top: 65%; } }
 @media (min-width: 1200px) {
   .show_go_top {
     display: block !important; }
@@ -251,9 +251,6 @@ a:focus {
     -moz-border-radius: 0;
     -ms-border-radius: 0;
     border-radius: 0;
-    -webkit-filter: grayscale(100%);
-    /* Chrome, Safari, Opera */
-    filter: grayscale(100%);
     overflow: none;
     width: 100%; }
   #portfolio .portfolio_info {
@@ -277,10 +274,6 @@ a:focus {
   #portfolio .portfolio_item.loaded:hover {
     border: 8px solid #000000; }
   #portfolio .portfolio_item.loaded:hover .portfolio_info {
-    top: 55%; }
-  #portfolio .portfolio_item.loaded:hover .portfolio_img {
-    -webkit-filter: grayscale(0);
-    /* Chrome, Safari, Opera */
-    filter: grayscale(0); } }
+    top: 55%; } }
 
 /*# sourceMappingURL=main.css.map */
